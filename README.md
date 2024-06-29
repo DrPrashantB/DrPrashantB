@@ -74,4 +74,4 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/dr-prash
 
 ---
 
-*This README was generated based on my professional resume. You can find more details and my latest updates on my [LinkedIn](https://www.linkedin.com/in/dr-prashant-bhopale-14385038) profi
+
