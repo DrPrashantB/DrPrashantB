@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a Ph.D. in El
 - 📍 **Location**: Mumbai, India
 - 📧 **Email**: [prashant2853@gmail.com](mailto:prashant2853@gmail.com)
 - 🔗 **LinkedIn**: [dr-prashant-bhopale](https://www.linkedin.com/in/dr-prashant-bhopale-14385038)
-- 🌐 **Website**: [Your Personal Website](#) (if available)
 
 ## Professional Experience
 
@@ -33,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a Ph.D. in El
   - MATLAB: Simulink
   - Python: NumPy, SciPy, Pandas, Seaborn, Scikit-learn, Tkinter, Requests, Boto3
 - **Machine Learning & Data Analysis**: Natural Language Processing (NLP), Statistical Analysis, Data Visualization
-- **Tools**: Tableau, MATLAB, Python
+- **Tools**: Python, Tableau, Power BI, MATLAB 
 
 ## Certifications
 
